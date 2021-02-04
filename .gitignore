@@ -5,6 +5,7 @@ node_modules
 
 # testing
 /coverage
+yarn.lock
 
 # production
 /dist
@@ -21,4 +22,3 @@ yarn-error.log*
 
 # Editor
 .vscode
-package-lock.json
