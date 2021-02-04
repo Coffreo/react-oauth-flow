@@ -1,5 +1,5 @@
 {
-  "name": "react-oauth-flow",
+  "name": "react-oauth-flow-coffreo",
   "version": "0.0.0-development",
   "repository": "git@github.com:adambrgmn/react-oauth-flow.git",
   "author": "Adam Bergman <adam@fransvilhelm.com>",
@@ -9,7 +9,7 @@
   "module": "dist/react-oauth-flow.m.js",
   "source": "src/index.js",
   "scripts": {
-    "build": "microbundle",
+    "build": "microbundle --jsx React.createElement",
     "test": "jest",
     "lint": "eslint",
     "format": "prettier",

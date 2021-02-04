@@ -5,6 +5,7 @@ node_modules
 
 # testing
 /coverage
+yarn.lock
 
 # production
 /dist
